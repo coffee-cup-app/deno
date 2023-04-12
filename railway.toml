@@ -1,5 +1,5 @@
 [build]
-buildCommand = "asdf"
+buildCommand = "echo building"
 
 [deploy]
-startCommand = "asdf"
+startCommand = "echo starting"
