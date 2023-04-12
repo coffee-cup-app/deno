@@ -2,4 +2,4 @@
 buildCommand = "echo building"
 
 [deploy]
-startCommand = "echo starting"
+startCommand = "echo starting!"
