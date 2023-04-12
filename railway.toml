@@ -1,1 +1,5 @@
-[asdfasdfasdf
+[build]
+buildCommand = "asdf"
+
+[deploy]
+startCommand = "asdf"
